@@ -24,7 +24,7 @@ To get started with the LangChain ML Project, follow the steps below:
 
 ```bash
 # Clone the repository
-git clone https://github.com/kekele-star/langchain-ml-project.git
+git clone https://github.com/kekele-star/LangChain-ml-project.git
 
 # Navigate to the project directory
 cd langchain-ml-project
