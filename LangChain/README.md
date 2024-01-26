@@ -10,9 +10,6 @@ Welcome to the LangChain ML Project repository! This project aims to build a pow
 4. [Model Architecture](#model-architecture)
 5. [Training](#training)
 6. [Evaluation](#evaluation)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
