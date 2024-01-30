@@ -9,3 +9,4 @@ In this project, these are the thing i will be doing:
 5. Use GPT to research retrieval and QnA using Arxiv
 6. Enable LLMs to use 5+ tools in the real world
 7. Equip LLMs with my own custom tools.
+
